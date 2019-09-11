@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Movie
+comment0.text=\n\ Write\ a\ description\ of\ class\ Movie\ here.\n\n\ @author\ (Shan\ Yin/12508949)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=title\ year\ genre\ price
+comment1.target=Movie(java.lang.String,\ int,\ Genre,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=Genre\ getGenre()
+comment4.params=
+comment4.target=int\ getPrice()
+comment5.params=
+comment5.target=int\ getYear()
+comment6.params=title
+comment6.target=boolean\ hasTitle(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

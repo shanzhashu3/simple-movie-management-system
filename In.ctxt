@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=In
+comment0.text=\n\ Write\ a\ description\ of\ class\ In\ here.\n\n\ @author\ (Shan\ Yin/12508949)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=In()
+comment2.params=
+comment2.target=java.lang.String\ nextLine()
+comment3.params=
+comment3.target=int\ nextInt()
+comment4.params=
+comment4.target=double\ nextDouble()
+comment5.params=
+comment5.target=char\ nextChar()
+numComments=6

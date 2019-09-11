@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Genre
+comment0.text=\n\ Write\ a\ description\ of\ class\ Genre\ here.\n\n\ @author\ (Shan\ Yin/12508949)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name
+comment1.target=Genre(java.lang.String)
+comment2.params=name
+comment2.target=boolean\ hasName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
